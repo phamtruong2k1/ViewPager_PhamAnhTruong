@@ -115,13 +115,13 @@
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btnLogin"
-        android:layout_width="wrap_content"
+        android:layout_width="200dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="50dp"
-        android:background="@color/teal_700"
+        android:background="@drawable/bg_them_ghi_chu"
         android:padding="10dp"
         android:text="Đăng nhập"
-        android:textColor="@color/orange"
+        android:textColor="@color/white"
         android:textStyle="bold"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
@@ -129,13 +129,13 @@
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btnChangePass"
-        android:layout_width="wrap_content"
+        android:layout_width="200dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
-        android:background="@color/teal_700"
+        android:background="@drawable/bg_them_ghi_chu"
         android:padding="10dp"
         android:text="Đổi mật khẩu"
-        android:textColor="@color/orange"
+        android:textColor="@color/white"
         android:textStyle="bold"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"

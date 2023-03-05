@@ -47,6 +47,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_margin="20dp"
+        android:background="@color/orange"
         android:src="@drawable/ic_baseline_add_24"
         android:tooltipText="Nhấp để thêm ghi chú"
         app:fabSize="auto"
